@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>threshold_monitor</name>
+  <version>0.1.0</version>
+  <description>Threshold monitor node for detecting threshold crossings and stale data.</description>
+  <maintainer email="user@example.com">User</maintainer>
+  <license>Apache-2.0</license>
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+</package>
